@@ -1,2 +1,2 @@
 # Twitter_Analysis
-This program would fetch most recent tweets, analyse these tweets keep a record of emotions (either positive, negative or neutral) and would plot it on the graph.
+Contributed as a machine learning engineer to a real-time Twitter sentiment analysis project. Developed and implemented a machine learning model using advanced natural language processing techniques and the TextBlob library to classify tweets as positive, negative, or neutral. Integrated interactive sentiment trend graphs using matplotlib for insightful visualization. This project showcased my expertise in data preprocessing, machine learning model development, and visualization techniques.
